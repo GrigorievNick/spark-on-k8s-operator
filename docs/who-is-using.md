@@ -9,3 +9,4 @@
 | MapR Technologies |@sarjeet2013| Evaluation | ML/AI & Analytics Data Platform |
 | Uber| @chenqin| Evaluation| Spark / ML|
 | HashmapInc| @prem0132 | Evaluation | Analytics Data Platform 
+| Ciklum | @GrigorievNick | Evaluation | ML/AI & Analytics Data Platform |
